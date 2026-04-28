@@ -14,7 +14,7 @@ You'll need to install the following packages in order to run the codes.
 - scipy==1.8.1
 - anndata==0.8.0
 - scikit-learn==1.3.0
-- numpy==1.24.3 
+- numpy==1.24.3    
 - scanpy==1.11.4
 - pandas==2.3.2
 - seaborn==0.13.2
@@ -25,7 +25,7 @@ You'll need to install the following packages in order to run the codes.
 - mclust==6.1.1
 
 ## 3. Tutorial and reproducibility
-For the step-by-step tutorial, please refer to: [https://SpatialMuSC-tutorials/reproducibility/](https://github.com/WyBioGroup/SpatialMuSC/tree/master/SpatialMuSC-main/SpatialMuSC-main/reproducibility/)
+For the step-by-step tutorial, please refer to: [https://SpatialMuSC-tutorials/reproducibility/](https://github.com/CSUBioGroup/SpatialMuSC/tree/master/SpatialMuSC-main/SpatialMuSC-main/reproducibility/)
 
 ## 4. Comparative Models
 The following models and methods are referenced:
@@ -41,10 +41,10 @@ The following models and methods are referenced:
 ## 5. Data availability
 ### 5.1 Real dataset
 The datasets were derived from publicly available sources: 
-- Human lymph node dataset: [10x Genomics Visium](https://github.com/WyBioGroup/SpatialMuSC/tree/master/data/Dataset11_Human_Lymph_Node_A1)
-- Mouse thymus dataset: [Stereo-CITE-seq](https://github.com/WyBioGroup/SpatialMuSC/tree/master/data/Dataset3_Mouse_Thymus1)
-- Mouse spleen dataset: [SPOTS](https://github.com/WyBioGroup/SpatialMuSC/tree/master/data/Dataset1_Mouse_Spleen1)
-- Adult human brain hippocampus dataset: [Spatial-epigenome-transcriptome](https://github.com/WyBioGroup/SpatialMuSC/tree/master/data/Dataset21_human_brain_hipp_raw)
+- Human lymph node dataset: [10x Genomics Visium](https://github.com/CSUBioGroup/SpatialMuSC/tree/master/data/Dataset11_Human_Lymph_Node_A1)
+- Mouse thymus dataset: [Stereo-CITE-seq](https://github.com/CSUBioGroup/SpatialMuSC/tree/master/data/Dataset3_Mouse_Thymus1)
+- Mouse spleen dataset: [SPOTS](https://github.com/CSUBioGroup/SpatialMuSC/tree/master/data/Dataset1_Mouse_Spleen1)
+- Adult human brain hippocampus dataset: [Spatial-epigenome-transcriptome](https://github.com/CSUBioGroup/SpatialMuSC/tree/master/data/Dataset21_human_brain_hipp_raw)
 ### 5.2 Mask dataset
 The mask datasets come from human brain hippocampus.
 - **Dataset 1, Dataset 2, Dataset 3**:
