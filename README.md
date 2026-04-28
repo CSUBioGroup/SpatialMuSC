@@ -21,7 +21,7 @@ You'll need to install the following packages in order to run the codes.
 - matplotlib==3.9.4
 - rpy2==3.6.3
 - scikit-misc==0.5.1
-- R==4.5.0
+- R==4.5.0  
 - mclust==6.1.1
 
 ## 3. Tutorial and reproducibility
