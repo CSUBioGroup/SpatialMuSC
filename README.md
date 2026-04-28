@@ -10,7 +10,7 @@ Integrating spatial multi-omics data for spatial domain identification with Spat
 You'll need to install the following packages in order to run the codes.
 - python==3.10.13
 - torch==2.7.1+cu128
-- tqdm==4.67.1
+- tqdm==4.67.1 
 - scipy==1.8.1
 - anndata==0.8.0
 - scikit-learn==1.3.0
