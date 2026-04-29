@@ -4,8 +4,7 @@
 ![Sample Image](Workflow/Figure1.jpg) 
 
 ## 1. Introduction  
-A multi-scale perturbation-robust fusion model for
-spatial multi-omics domain identification
+A multi-scale perturbation-robust fusion model for spatial multi-omics domain identification
 
 ## 2. Requirements 
 You'll need to install the following packages in order to run the codes.
