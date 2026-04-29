@@ -3,7 +3,7 @@
 
 ![Sample Image](Workflow/Figure1.jpg) 
 
-## 1. Introduction
+## 1. Introduction  
 A multi-scale perturbation-robust fusion model for
 spatial multi-omics domain identification
 
