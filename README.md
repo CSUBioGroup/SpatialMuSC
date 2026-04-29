@@ -4,7 +4,8 @@
 ![Sample Image](Workflow/Figure1.jpg) 
 
 ## 1. Introduction
-Integrating spatial multi-omics data for spatial domain identification with SpatialMuSC
+A multi-scale perturbation-robust fusion model for
+spatial multi-omics domain identification
 
 ## 2. Requirements 
 You'll need to install the following packages in order to run the codes.
