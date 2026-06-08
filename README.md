@@ -29,14 +29,14 @@ For the step-by-step tutorial, please refer to: [https://SpatialMuSC-tutorials/r
 
 ## 4. Comparative Models
 The following models and methods are referenced:
-- **SpaMI**: [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013546)
-- **SpatialGlue**: [Nature Methods](https://www.nature.com/articles/s41592-024-02316-4)
-- **COSMOS**: [Nature Communications](https://www.nature.com/articles/s41467-024-55204-y)
-- **PRAGA**: [AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/32010)
-- **SpaMGCN**: [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03637-z)
 - **TotalVI**: [Nature Methods](https://www.nature.com/articles/s41592-020-01050-x)
-- **SpaDDM**: [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2517283123)
+- **SpatialGlue**: [Nature Methods](https://www.nature.com/articles/s41592-024-02316-4)
+- - **SpaDDM**: [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/abs/10.1073/pnas.2517283123)
+- **COSMOS**: [Nature Communications](https://www.nature.com/articles/s41467-024-55204-y)
+- **SpaMGCN**: [Genome Biology](https://link.springer.com/article/10.1186/s13059-025-03637-z)
+- **PRAGA**: [AAAI Conference on Artificial Intelligence](https://ojs.aaai.org/index.php/AAAI/article/view/32010)
 - **SSGATE**: [Briefings in Bioinformatics](https://academic.oup.com/bib/article/25/5/bbae450/7760130?guestAccessKey=)
+- - **SpaMI**: [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013546)
 
 ## 5. Data availability
 ### 5.1 Real dataset
