@@ -8,7 +8,7 @@ numpy==1.24.3
 scanpy==1.11.4
 pandas==2.3.2
 seaborn==0.13.2
-matplotlib==3.9.4
+matplotlib==3.9.4 
 rpy2==3.6.3
 scikit-misc==0.5.1
 R==4.5.0
